@@ -1,0 +1,7 @@
+region="eu-west-2"
+project_name="Website"
+vpc_cidr="10.0.0.0/16"
+web_public_subnet-1_cidr="10.0.10.0/24"
+web_public_subnet-2_cidr="10.0.11.0/24"
+priv_app_subnet-1_cidr="10.0.12.0/24"
+priv_app_subnet-2_cidr="10.0.13.0/24"
